@@ -9,7 +9,6 @@
 - 💻 I’m currently working on Full Stack Development, Flutter Apps, and Data Structures 
 - 🌱 I’m learning Spring Boot | Flutter | Firebase | Cloud Deployment | Data Structures & Algorithms  
 - 💬 Ask me about Java | Flutter | Web Development | APIs | DSA (Data Structures & Algorithms)
-- 📫 Reach me at manishshetty@gmail.com  
 
 ---
 
