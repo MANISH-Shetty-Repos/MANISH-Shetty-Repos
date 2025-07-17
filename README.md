@@ -73,7 +73,6 @@
 ## 📝 Latest Projects
 
 - 💡 **IoT-Based Smart Home Dashboard** using **Spring Boot**
-- 💬 **Quote of the Day App** using **Flutter & Firebase**
 - 🔐 **NLP-based Research Project**
 
 ---
