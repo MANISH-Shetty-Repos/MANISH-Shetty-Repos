@@ -50,22 +50,22 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:manishshet2@gmail.com">
+  <a href="mailto:manishshetty4002@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/your-username/">
+  <a href="https://leetcode.com/u/Shetty_Manish/">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116"/>
   </a>
 
   <!-- GeeksforGeeks -->
-  <a href="https://auth.geeksforgeeks.org/user/your-username">
+  <a href="https://www.geeksforgeeks.org/user/manish_shetty/">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
   </a>
 
   <!-- CodeChef -->
-  <a href="https://www.codechef.com/users/your-username">
+  <a href="https://www.codechef.com/users/manishshetty40">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
