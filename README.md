@@ -73,7 +73,6 @@
 
 ---
 
-## 📊 GitHub Stats
 
 <h2 align="center">⚡ GitHub Stats & Activities</h2>
 
@@ -92,7 +91,7 @@
 
 ## 📝 Latest Projects
 
-- 💡 **IoT-Based Smart Home Dashboard** using **Spring Boot**
+- 💡 **Smart Home Dashboard** using **Spring Boot**
 - 🔐 **NLP-based Research Project**
 
 ---
