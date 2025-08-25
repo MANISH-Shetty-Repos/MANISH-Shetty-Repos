@@ -14,8 +14,6 @@
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠️ Tech Stack & Tools
-
 <p align="left">
 
 <!-- Backend & Frontend -->
@@ -46,11 +44,32 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/www.linkedin.com/in/manish-shetty101/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:manishshetty4002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <!-- LinkedIn -->
+  <a href="www.linkedin.com/in/manish-shetty101">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
+  <!-- Gmail -->
+  <a href="mailto:manishshet2@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/your-username/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#FFA116"/>
+  </a>
+
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/your-username">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white"/>
+  </a>
+
+  <!-- CodeChef -->
+  <a href="https://www.codechef.com/users/your-username">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a>
 </p>
+
 
 ---
 
