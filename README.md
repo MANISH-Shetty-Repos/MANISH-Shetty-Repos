@@ -6,8 +6,8 @@
 ## 🚀 About Me
 
 - 🎓 I'm currently pursuing MCA at NMAM Institute of Technology, Nitte
-- 💻 I’m currently working on Full Stack Development, Flutter Apps, and Data Structures 
-- 🌱 I’m learning Spring Boot | Flutter | Firebase | Cloud Deployment | Data Structures & Algorithms  
+- 💻 I’m currently working on Full Stack Development, Spring Boot, and Data Structures 
+- 🌱 I’m learning Flutter | Firebase | Cloud Deployment | Data Structures & Algorithms  
 - 💬 Ask me about Java | Flutter | Web Development | APIs | DSA (Data Structures & Algorithms)
 
 ---
