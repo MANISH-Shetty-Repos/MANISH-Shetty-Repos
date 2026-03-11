@@ -89,10 +89,5 @@
 
 ---
 
-## 📝 Latest Projects
 
-- 💡 **Smart Home Dashboard** using **Spring Boot**
-- 🔐 **NLP-based Research Project**
-
----
 
