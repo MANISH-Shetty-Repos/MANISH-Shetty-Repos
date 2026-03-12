@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Manish Shetty</h1>
+<h1 align="center">Hi, I'm Manish</h1>
 <h3 align="center">A Passionate Software Developer and Tech Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 I'm currently pursuing MCA at NMAM Institute of Technology, Nitte
-- 💻 I’m currently working on Full Stack Development, Spring Boot, and Data Structures 
-- 🌱 I’m learning Flutter | Firebase | Cloud Deployment | Data Structures & Algorithms  
-- 💬 Ask me about Java | Spring Boot | Web Development | APIs | MySQL | DSA (Data Structures & Algorithms)
+-  I'm currently pursuing MCA at NMAM Institute of Technology, Nitte
+-  I’m currently working on Full Stack Development, Spring Boot, and Data Structures 
+-  I’m learning Flutter | Firebase | Cloud Deployment | Data Structures & Algorithms  
+-  Ask me about Java | Spring Boot | Web Development | APIs | MySQL | DSA (Data Structures & Algorithms)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <p align="left">
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Connect with Me
+##  Connect with Me
 
 <p align="left">
   <!-- LinkedIn -->
@@ -74,7 +74,7 @@
 ---
 
 
-<h2 align="center">⚡ GitHub Stats & Activities</h2>
+<h2 align="center"> GitHub Stats & Activities</h2>
 
 <p align="center">
 
