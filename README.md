@@ -78,11 +78,9 @@
 
 <p align="center">
 
-<!-- Commit Status / Contribution Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=MANISH-Shetty-Repos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&count_private=true" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=manish-shetty-repos&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<!-- Language Usage Stats (Shows Percentage Used) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MANISH-Shetty-Repos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" width="48%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=manish-shetty-repos&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 
 </p>
 
